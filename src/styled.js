@@ -7,6 +7,7 @@ export const Container = styled.section`
     background-color: hsl(27, 66%, 92%);
     width: 100%;
     height: 100vh;
+    font-family: 'DM Sans', sans-serif;
 
     @media (max-width: 375px){
         max-width: 375px;
